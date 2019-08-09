@@ -7,8 +7,8 @@
 For students, we want:
 
 @ul
-- Students to be engaged in class
-- so they can lean more
+- more engagement in class
+- so they can learn more
 @ulend
 
 For professors, we want:
