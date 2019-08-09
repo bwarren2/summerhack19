@@ -14,7 +14,7 @@ For students, we want:
 For professors, we want:
 
 @ul
-- To make lectures more effectively cultivate knowledge in learners
+- Better knowledge sharing into students
 - Calibration of the lecture in real time
 @ulend
 
